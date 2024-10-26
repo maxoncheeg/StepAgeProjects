@@ -1,0 +1,12 @@
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19-1.csproj.AssemblyReference.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19_1.Properties.Resources.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19-1.csproj.GenerateResource.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19-1.csproj.CoreCompileInputs.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\bin\Debug\SHARPex19-1.exe.config
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\bin\Debug\SHARPex19-1.exe
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\bin\Debug\SHARPex19-1.pdb
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19-1.exe
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19-1.pdb
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19_1.Form1.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19_1.FormShowOrder.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex19-1\SHARPex19-1\obj\Debug\SHARPex19_1.Forms.FormAddOrder.resources

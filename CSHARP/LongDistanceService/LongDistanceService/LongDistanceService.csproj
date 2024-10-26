@@ -1,0 +1,251 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8F1B15F2-4DC4-4D33-9622-0439D347B59E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>LongDistanceService</RootNamespace>
+    <AssemblyName>LongDistanceService</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Controller\LogInManager_Truckers.cs" />
+    <Compile Include="Controller\LogInManager.cs" />
+    <Compile Include="Controller\MainManager.cs" />
+    <Compile Include="FormPlacer.cs" />
+    <Compile Include="Model\ConnectionToSqlDB.cs" />
+    <Compile Include="Model\ITable.cs" />
+    <Compile Include="Model\LogIn\TableUsers.cs" />
+    <Compile Include="Model\LogIn\User.cs" />
+    <Compile Include="Model\Main\Application.cs" />
+    <Compile Include="Model\Main\Order.cs" />
+    <Compile Include="Model\Main\SupportedCity.cs" />
+    <Compile Include="Model\Main\TableApplications.cs" />
+    <Compile Include="Model\Main\TableOrders.cs" />
+    <Compile Include="Model\Main\TableSupportedCities.cs" />
+    <Compile Include="Model\Main\TableTruckers.cs" />
+    <Compile Include="Model\Main\TableTrucks.cs" />
+    <Compile Include="Model\Main\Truck.cs" />
+    <Compile Include="Model\Main\Trucker.cs" />
+    <Compile Include="Model\PowerfulMethods.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="View\AdminView\FormAdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminView\FormAdminMenu.Designer.cs">
+      <DependentUpon>FormAdminMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminView\FormRegisterTrucks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminView\FormRegisterTrucks.Designer.cs">
+      <DependentUpon>FormRegisterTrucks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminView\FormSupportedCities.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminView\FormSupportedCities.Designer.cs">
+      <DependentUpon>FormSupportedCities.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminView\FormTruckers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminView\FormTruckers.Designer.cs">
+      <DependentUpon>FormTruckers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminView\FormTruckManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminView\FormTruckManagement.Designer.cs">
+      <DependentUpon>FormTruckManagement.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminView\FormTrucks.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminView\FormTrucks.Designer.cs">
+      <DependentUpon>FormTrucks.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\CustomerView\FormCustomerMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\CustomerView\FormCustomerMenu.Designer.cs">
+      <DependentUpon>FormCustomerMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormLogIn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormLogIn.Designer.cs">
+      <DependentUpon>FormLogIn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormMakeOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormMakeOrder.Designer.cs">
+      <DependentUpon>FormMakeOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\FormPersonalProfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\FormPersonalProfile.Designer.cs">
+      <DependentUpon>FormPersonalProfile.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\AdminView\FormUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\AdminView\FormUsers.Designer.cs">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\LDSMessageBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\LDSMessageBox.Designer.cs">
+      <DependentUpon>LDSMessageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Register\FormCustomerRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Register\FormCustomerRegister.Designer.cs">
+      <DependentUpon>FormCustomerRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\Register\FormTruckerRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\Register\FormTruckerRegister.Designer.cs">
+      <DependentUpon>FormTruckerRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="View\TruckerView\FormTruckerApplication.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="View\TruckerView\FormTruckerApplication.Designer.cs">
+      <DependentUpon>FormTruckerApplication.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="View\AdminView\FormAdminMenu.resx">
+      <DependentUpon>FormAdminMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminView\FormRegisterTrucks.resx">
+      <DependentUpon>FormRegisterTrucks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminView\FormSupportedCities.resx">
+      <DependentUpon>FormSupportedCities.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminView\FormTruckers.resx">
+      <DependentUpon>FormTruckers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminView\FormTruckManagement.resx">
+      <DependentUpon>FormTruckManagement.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminView\FormTrucks.resx">
+      <DependentUpon>FormTrucks.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\CustomerView\FormCustomerMenu.resx">
+      <DependentUpon>FormCustomerMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormLogIn.resx">
+      <DependentUpon>FormLogIn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormMakeOrder.resx">
+      <DependentUpon>FormMakeOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\FormPersonalProfile.resx">
+      <DependentUpon>FormPersonalProfile.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\AdminView\FormUsers.resx">
+      <DependentUpon>FormUsers.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\LDSMessageBox.resx">
+      <DependentUpon>LDSMessageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Register\FormCustomerRegister.resx">
+      <DependentUpon>FormCustomerRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\Register\FormTruckerRegister.resx">
+      <DependentUpon>FormTruckerRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="View\TruckerView\FormTruckerApplication.resx">
+      <DependentUpon>FormTruckerApplication.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LDSlogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LDSpicture.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyeClose.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\eyeOpen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truckDayRide.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\truckNightRide.gif" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

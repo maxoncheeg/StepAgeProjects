@@ -1,0 +1,20 @@
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\bin\Debug\SHARPex12-1.exe.config
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\bin\Debug\SHARPex12-1.exe
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\bin\Debug\SHARPex12-1.pdb
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\obj\Debug\SHARPex12-1.csprojAssemblyReference.cache
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\obj\Debug\SHARPex12_1.Form1.resources
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\obj\Debug\SHARPex12_1.Properties.Resources.resources
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\obj\Debug\SHARPex12-1.csproj.GenerateResource.cache
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\obj\Debug\SHARPex12-1.csproj.CoreCompileInputs.cache
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\obj\Debug\SHARPex12-1.exe
+C:\Users\maksg\Desktop\programm step\SHARPex12-1\SHARPex12-1\obj\Debug\SHARPex12-1.pdb
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\bin\Debug\SHARPex12-1.exe.config
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\bin\Debug\SHARPex12-1.exe
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\bin\Debug\SHARPex12-1.pdb
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\obj\Debug\SHARPex12-1.csprojAssemblyReference.cache
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\obj\Debug\SHARPex12_1.Form1.resources
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\obj\Debug\SHARPex12_1.Properties.Resources.resources
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\obj\Debug\SHARPex12-1.csproj.GenerateResource.cache
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\obj\Debug\SHARPex12-1.csproj.CoreCompileInputs.cache
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\obj\Debug\SHARPex12-1.exe
+C:\Users\maksg\Desktop\programm step\SHARPex12-1(Уроки по C++ с Максончиком)\SHARPex12-1\obj\Debug\SHARPex12-1.pdb

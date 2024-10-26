@@ -1,0 +1,60 @@
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\bin\Debug\MrClocker.exe.config
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\bin\Debug\MrClocker.exe
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\bin\Debug\MrClocker.pdb
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.AssemblyReference.cache
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\View\AnalogClock.g.cs
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\View\DigitalClock.g.cs
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\View\Main.g.cs
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\App.g.cs
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker_MarkupCompile.cache
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker_MarkupCompile.lref
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\View\AnalogClock.baml
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\View\DigitalClock.baml
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\View\Main.baml
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker.g.resources
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker.Properties.Resources.resources
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.GenerateResource.cache
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.CoreCompileInputs.cache
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker.exe
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\MrClocker.pdb
+C:\Users\PC\Documents\Semenov Maxim\MrClocker\MrClocker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\bin\Debug\MrClocker.exe.config
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\bin\Debug\MrClocker.exe
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\bin\Debug\MrClocker.pdb
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.AssemblyReference.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\AnalogClock.g.cs
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\DigitalClock.g.cs
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\Main.g.cs
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\App.g.cs
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker_MarkupCompile.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker_MarkupCompile.lref
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\AnalogClock.baml
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\DigitalClock.baml
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\Main.baml
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.g.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.Properties.Resources.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.GenerateResource.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.CoreCompileInputs.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.exe
+C:\Users\maxoncheeg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.pdb
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\bin\Debug\MrClocker.exe.config
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\bin\Debug\MrClocker.exe
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\bin\Debug\MrClocker.pdb
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.AssemblyReference.cache
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\AnalogClock.g.cs
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\DigitalClock.g.cs
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\Main.g.cs
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\App.g.cs
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker_MarkupCompile.cache
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker_MarkupCompile.lref
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\AnalogClock.baml
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\DigitalClock.baml
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\View\Main.baml
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.g.resources
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.Properties.Resources.resources
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.GenerateResource.cache
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.csproj.CoreCompileInputs.cache
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.exe
+C:\Users\maksg\Desktop\CODING\STEP\MrClocker\MrClocker\obj\Debug\MrClocker.pdb

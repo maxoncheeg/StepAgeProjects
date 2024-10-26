@@ -1,0 +1,14 @@
+﻿<Window x:Class="MrClocker.View.Main"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MrClocker.View"
+        mc:Ignorable="d"
+        Title="Main" Height="502" Width="434" Background="Black" ResizeMode="NoResize">
+    <Canvas>
+        <UserControl Height="400" Width="400" Content="{Binding ActiveForm}" Canvas.Left="10" Canvas.Top="10"/>
+
+        <Button Command="{Binding ClockChanger}" Content="{Binding ButtonContent}" BorderThickness="0" Height="40" Background="Transparent" Foreground="Orange" FontFamily="Papyrus" Canvas.Left="10" Canvas.Top="415" Width="400" FontSize="18"/>
+    </Canvas>
+</Window>

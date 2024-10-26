@@ -1,0 +1,18 @@
+﻿<UserControl x:Class="TwentyFortyEight.View.GameWinScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:TwentyFortyEight.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="450">
+    <Canvas Background="Pink" Height="450" Width="450">
+        <Label Content="WIN" Background="AliceBlue" Height="95" Width="260" FontSize="65" FontFamily="Matura MT Script Capitals" Canvas.Left="95" Canvas.Top="80" Foreground="Red"/>
+
+        <Label Content="Your score:" Canvas.Left="100" Canvas.Top="185" FontFamily="Rockwell Extra Bold" FontSize="24" Background="#FF4763DE" Foreground="{Binding TextColor}"/>
+        <Label x:Name="Sas" Content="{Binding Score}" FontFamily="Rockwell Extra Bold" FontSize="24" Background="#FF4763DE" Foreground="{Binding TextColor}" Canvas.Left="290" Canvas.Top="185"/>
+
+        <Button Content="Close" Command="{Binding Close}" FontSize="40" Background="#FFD8386B" Foreground="{Binding TextColor}" Canvas.Left="60" Canvas.Top="289" Height="66" Width="325" FontFamily="Magneto"/>
+
+    </Canvas>
+</UserControl>

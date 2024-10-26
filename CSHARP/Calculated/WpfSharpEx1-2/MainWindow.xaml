@@ -1,0 +1,62 @@
+﻿<Window x:Class="WpfSharpEx1_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfSharpEx1_2"
+        mc:Ignorable="d"
+        Title="Calculated! by maxoncheeg" Height="542" Width="404" WindowStyle="ToolWindow" ResizeMode="NoResize" Icon="Calculated.ico">
+    
+    <Grid Background="AntiqueWhite">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="1.4*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!--Нулевой ряд-->
+        <Canvas>
+            <Button x:Name="buttonEqualBack" Padding="0, 0, 0, 1" Panel.ZIndex="21" BorderThickness="0" Background="PapayaWhip" Foreground="#FF6E6B67" Content="\/" Height="15" Width="20" FontSize="10" Canvas.Left="5" Canvas.Top="15"/>
+            <TextBlock x:Name="textBlockLastEqual" Foreground="#FF6E6B67" Height="20" Width="340" Panel.ZIndex="20" Canvas.Left="25" Background="PapayaWhip" FontFamily="Bahnschrift Light" FontSize="16" TextAlignment="Left" Canvas.Top="15"/>
+            <TextBox Panel.ZIndex="0" x:Name="textBoxEqual" IsReadOnly="True" Background="PapayaWhip" FontFamily="Bahnschrift Light" FontSize="22" Padding="20, 33" TextAlignment="Right" Width="396" Height="111"/>
+            <TextBlock x:Name="textBlockPreEqual" Foreground="#FF6E6B67" Height="20" Width="350" Panel.ZIndex="20" Canvas.Left="10" Background="PapayaWhip" FontFamily="Bahnschrift Light" FontSize="14" TextAlignment="Right" Canvas.Top="70"/>
+        </Canvas>
+        <!--Первый ряд-->
+        <Button x:Name="buttonCE" Background="NavajoWhite" Grid.Column="0" Grid.Row="1" Content="CE" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonC" Background="NavajoWhite" Grid.Column="1" Grid.Row="1" Content="C" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonDelete" Background="NavajoWhite" Grid.Column="2" Grid.Row="1" Content="DEL" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonDivision" Background="NavajoWhite" Grid.Column="3" Grid.Row="1" Content="/" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <!--Второй ряд-->
+        <Button x:Name="buttonSeven" Background="NavajoWhite" Grid.Column="0" Grid.Row="2" Content="7" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonEight" Background="NavajoWhite" Grid.Column="1" Grid.Row="2" Content="8" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonNine" Background="NavajoWhite" Grid.Column="2" Grid.Row="2" Content="9" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonMultiplication" Background="NavajoWhite" Grid.Column="3" Grid.Row="2" Content="*" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <!--Третий ряд-->
+        <Button x:Name="buttonFour" Background="NavajoWhite" Grid.Column="0" Grid.Row="3" Content="4" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonFive" Background="NavajoWhite" Grid.Column="1" Grid.Row="3" Content="5" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonSix" Background="NavajoWhite" Grid.Column="2" Grid.Row="3" Content="6" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonMinus" Background="NavajoWhite" Grid.Column="3" Grid.Row="3" Content="-" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <!--Четвертый ряд-->
+        <Button x:Name="buttonOne" Background="NavajoWhite" Grid.Column="0" Grid.Row="4" Content="1" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonTwo" Background="NavajoWhite" Grid.Column="1" Grid.Row="4" Content="2" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonThree" Background="NavajoWhite" Grid.Column="2" Grid.Row="4" Content="3" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonPlus" Background="NavajoWhite" Grid.Column="3" Grid.Row="4" Content="+" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <!--Четвертый ряд-->
+        <Button x:Name="buttonDot"  Background="NavajoWhite" Grid.Column="0" Grid.Row="5" FontFamily="Bahnschrift Light" FontSize="20">
+            <Bold>,</Bold>
+        </Button>
+        <Button x:Name="buttonZero" Background="NavajoWhite" Grid.Column="1" Grid.Row="5" Content="0" FontFamily="Bahnschrift Light" FontSize="20"/>
+        <Button x:Name="buttonEqual" Background="NavajoWhite" Grid.Column="2" Grid.Row="5" Grid.ColumnSpan="2" Content="=" FontFamily="Bahnschrift Light" FontSize="20"/>
+
+    </Grid>
+</Window>

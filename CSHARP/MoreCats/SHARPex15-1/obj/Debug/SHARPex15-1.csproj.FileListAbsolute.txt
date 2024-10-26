@@ -1,0 +1,10 @@
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\bin\Debug\SHARPex15-1.exe.config
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\bin\Debug\SHARPex15-1.exe
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\bin\Debug\SHARPex15-1.pdb
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\obj\Debug\SHARPex15-1.csproj.AssemblyReference.cache
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\obj\Debug\SHARPex15_1.Properties.Resources.resources
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\obj\Debug\SHARPex15-1.csproj.GenerateResource.cache
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\obj\Debug\SHARPex15-1.csproj.CoreCompileInputs.cache
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\obj\Debug\SHARPex15-1.exe
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\obj\Debug\SHARPex15-1.pdb
+C:\Users\maxoncheeg\Desktop\Step\SHARPex15-1\SHARPex15-1\obj\Debug\SHARPex15_1.Form1.resources

@@ -1,0 +1,10 @@
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\bin\Debug\SHARPex1-1.exe.config
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\bin\Debug\SHARPex1-1.exe
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\bin\Debug\SHARPex1-1.pdb
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\obj\Debug\SHARPex1-1.csprojAssemblyReference.cache
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\obj\Debug\SHARPex1_1.Form1.resources
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\obj\Debug\SHARPex1_1.Properties.Resources.resources
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\obj\Debug\SHARPex1-1.csproj.GenerateResource.cache
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\obj\Debug\SHARPex1-1.csproj.CoreCompileInputs.cache
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\obj\Debug\SHARPex1-1.exe
+C:\Users\maksg\Desktop\programm step\SHARPex1-1\SHARPex1-1\obj\Debug\SHARPex1-1.pdb

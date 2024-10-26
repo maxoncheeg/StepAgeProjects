@@ -1,0 +1,12 @@
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\bin\Debug\SHARPex21-1.exe.config
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\bin\Debug\SHARPex21-1.exe
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\bin\Debug\SHARPex21-1.pdb
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21-1.csproj.AssemblyReference.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21_1.Properties.Resources.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21-1.csproj.GenerateResource.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21-1.csproj.CoreCompileInputs.cache
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21-1.exe
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21-1.pdb
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21_1.Forms.FormRoulette.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21_1.Forms.MessageBoxBetterThanBasicMessageBox.resources
+C:\Users\maxoncheeg\Desktop\CODING\STEP\SHARPex21-1\SHARPex21-1\obj\Debug\SHARPex21_1.Forms.FormStatistic.resources
